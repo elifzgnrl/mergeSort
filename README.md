@@ -1,5 +1,5 @@
 # mergeSort
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde Veri Yapıları ve Algoritmalar dersi için hazırlanmış bir 
+Bu repo Veri Yapıları ve Algoritmalar için hazırlanmış bir 
 Merge Sort Projesidir.
 
 Merge sort’un özelliği problemi parçalara bölmektir. 
